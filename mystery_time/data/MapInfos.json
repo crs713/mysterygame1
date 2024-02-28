@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Opening Cutscene (Mansion)","order":1,"parentId":0,"scrollX":811,"scrollY":1418.5,"quick":false},
-{"id":2,"expanded":true,"name":"Mansion","order":2,"parentId":0,"scrollX":832,"scrollY":1248.5,"quick":false},
+{"id":1,"expanded":false,"name":"Opening Cutscene (Mansion)","order":1,"parentId":0,"scrollX":811,"scrollY":453.5,"quick":false},
+{"id":2,"expanded":true,"name":"Mansion","order":2,"parentId":0,"scrollX":832,"scrollY":1208.5,"quick":false},
 {"id":3,"expanded":true,"name":"Mystery1_Accuse_Cutscene (Mansion)","order":3,"parentId":0,"scrollX":832,"scrollY":1094.5,"quick":false},
 {"id":4,"expanded":true,"name":"Mystery2_Accuse_Cutscene (Mansion)","order":4,"parentId":0,"scrollX":811,"scrollY":1094.5,"quick":false},
 {"id":5,"expanded":false,"name":"Mystery3_Accuse_Cutscene (Mansion)","order":5,"parentId":0,"scrollX":832,"scrollY":1094.5,"quick":false}
